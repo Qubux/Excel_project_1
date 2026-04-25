@@ -18,4 +18,7 @@ code
 line
 ```
 
+[де файли](Тута)  
+
+
 <img width="1336" height="867" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/23afe9cd-c0b9-4ef4-a49c-937c28f43ae9" />
